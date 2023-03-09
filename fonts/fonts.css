@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+@font-face {
+    font-family: 'NatureBeauty';
+    src: url(NatureBeauty.ttf);
+}
+
+@font-face {
+    font-family: 'KidsCute';
+    src: url(KidsCute.otf);
+}
+
+@font-face {
+    font-family: 'HelloGraduationSans';
+    src: url(HelloGraduationSans.ttf);
+}
+@font-face {
+    font-family: 'TrenchThin';
+    src: url(TrenchThin.ttf);
+}
